@@ -1,38 +1,4 @@
 ```markdown
-<pre>
-      ___           ___           ___           ___           ___     
-     /\  \         /\__\         /\  \         /\  \         /\__\    
-    /::\  \       /:/  /        /::\  \       /::\  \       /:/  /    
-   /:/\:\  \     /:/  /        /:/\:\  \     /:/\:\  \     /:/__/     
-  /:/  \:\  \   /:/  /  ___   /::\~\:\  \   /:/  \:\  \   /::\  \ ___ 
- /:/__/ \:\__\ /:/__/  /\__\ /:/\:\ \:\__\ /:/__/ \:\__\ /:/\:\  /\__\
- \:\  \  \/__/ \:\  \ /:/  / \/__\:\/:/  / \:\  \ /:/  / \/__\:\/:/  /
-  \:\  \        \:\  /:/  /       \::/  /   \:\  /:/  /       \::/  / 
-   \:\  \        \:\/:/  /        /:/  /     \:\/:/  /        /:/  /  
-    \:\__\        \::/  /        /:/  /       \::/  /        /:/  /   
-     \/__/         \/__/         \/__/         \/__/         \/__/    
-                                                                      
-       ___           ___                       ___           ___     
-      /\  \         /\__\                     /\__\         /\  \    
-     /::\  \       /:/  /                    /:/ _/_       /::\  \   
-    /:/\:\  \     /:/  /                    /:/ /\__\     /:/\ \  \  
-   /::\~\:\  \   /:/  /  ___               /:/ /:/  /    _\:\~\ \  \ 
-  /:/\:\ \:\__\ /:/__/  /\__\             /:/_/:/  /    /\ \:\ \ \__\
-  \/__\:\/:/  / \:\  \ /:/  /             \:\/:/  /     \:\ \:\ \/__/
-       \::/  /   \:\  /:/  /               \::/__/       \:\ \:\__\  
-        \/__/     \:\/:/  /                 \:\  \        \:\/:/  /  
-                   \::/  /                   \:\__\        \::/  /   
-                    \/__/                     \/__/         \/__/    
-</pre>
-
-```ascii
-     [ SYSTEM BOOT SEQUENCE INITIATED ]
-     > Loading kernel........................ OK
-     > Mounting secure filesystem............ OK
-     > Initializing encrypted channel........ OK
-     > Establishing uplink to matrix......... CONNECTED
-     > Access granted. Welcome back, operator.
-```
 
 ### 👋 Hey there, I'm **Parth Dinesh Bhagat** — `@parthbhagat1337`
 
@@ -44,7 +10,7 @@ Cybersecurity Engineer • Red Team Specialist • Cloud Security Architect
 > Versatile security professional with 2+ years of hands-on experience bridging **offensive** and **defensive** operations.  
 > I align technical defenses with real-world threats through Red Teaming, Cloud Hardening, Threat Hunting, and secure development practices.
 
-**Current Mission**: Pursuing **M.Sc. in Cybersecurity** at Dublin Business School, Ireland (2024–2025)  
+**M.Sc. in Cybersecurity** at Dublin Business School, Ireland (2024–2025)  
 **Thesis**: Detecting Encrypted C2 Traffic using Machine Learning
 
 ### 🔧 Technical Arsenal
@@ -64,9 +30,7 @@ Cybersecurity Engineer • Red Team Specialist • Cloud Security Architect
 ### 🚀 Live Portfolio – Enter the Matrix
 Experience my full interactive portfolio with real-time Matrix rain, typewriter effect, and terminal-style navigation:
 
-🔗 **[parthbhagat1337.github.io/parth-portfolio](https://parthbhagat1337.github.io/parth-portfolio)**
-
-*(System online • Secure connection established)*
+🔗 **[https://v0-resume-to-portfolio-ten-self.vercel.app/](https://v0-resume-to-portfolio-ten-self.vercel.app/)**
 
 ### 🛡️ Classified Projects (Highlights)
 
@@ -94,7 +58,7 @@ Full declassified project archive available in the portfolio ↑
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-bhagat-386954113/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/parthbhagat1337)
 [![Email](https://img.shields.io/badge/Email-parthp1337@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:parthp1337@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=react&logoColor=white)](https://parthbhagat1337.github.io/parth-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=react&logoColor=white)](https://v0-resume-to-portfolio-ten-self.vercel.app/)
 
 ```text
 > status
@@ -110,13 +74,4 @@ Inbox always open — encrypted messages welcome.
      [ END OF TRANSMISSION ]
      > Connection secured. Stay sharp out there.
      > All systems nominal — 17 December 2025
-```
-
-```
-
-This is the **complete README.md** file. Just create a new file named `README.md` in your main GitHub profile repository (https://github.com/parthbhagat1337/parthbhagat1337), paste the entire content above, commit, and push.
-
-GitHub will automatically render it as your beautiful, hacker-themed profile page with ASCII art, badges, and perfect alignment to your portfolio's Matrix/cybersecurity aesthetic.
-
-Let me know if you want to add GitHub stats, visitor count, or a trophy section next! 🔒🚀
 ```
