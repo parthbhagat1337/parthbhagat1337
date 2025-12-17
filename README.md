@@ -2,7 +2,6 @@
 
 ### 👋 Hey there, I'm **Parth Dinesh Bhagat** — `@parthbhagat1337`
 
-```text
 > whoami
 Cybersecurity Engineer • Red Team Specialist • Cloud Security Architect
 ```
