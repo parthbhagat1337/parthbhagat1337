@@ -1,1 +1,122 @@
-<div align="center"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D22c55e%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DSYSTEM%2BONLINE...%3BHi,%2BI%27m%2BParth%2BBhagat%3BCybersecurity%2BEngineer%3BRed%2BTeam%2B%257C%2BCloud%2BSecurity%2B%257C%2BSOC%3BWelcome%2Bto%2Bmy%2Bdigital%2Bfortress..." alt="Typing SVG" /></div><div align="center"><a href="https://www.linkedin.com/in/parth-bhagat-386954113/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a><a href="https://medium.com/@parthbhagat1337"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Medium-12100E%3Fstyle%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite" /></a><a href="mailto:parthp1337@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>👨‍💻 Mission BriefingI am a Cybersecurity Engineer with a Master's degree and 2+ years of tactical experience bridging Offensive Security (Red Teaming) and Defensive Operations (SOC/Cloud Security). My work focuses on aligning technical defenses with business objectives through proactive threat hunting and secure cloud architecture.🔭 I’m currently working on Cloud Security Automation & ML-based Threat Detection🛡️ Specializing in AWS, Azure, GCP, and Red Team Operations💬 Ask me about Havoc C2, Active Directory Exploitation, and Cloud Hardening🛠️ Technical Arsenal<div align="center">Offensive SecurityCloud & InfrastructureDefensive & SOCDevelopment</div>📊 Satellite Uplink Stats<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dparthbhagat1337%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3D22c55e%26icon_color%3D22c55e%26text_color%3D9ca3af" height="180" alt="stats graph"  /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dparthbhagat1337%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3D22c55e%26text_color%3D9ca3af" height="180" alt="languages graph" /></div><div align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dparthbhagat1337%26theme%3Ddark%26hide_border%3Dtrue%26background%3D000000%26ring%3D22c55e%26fire%3D22c55e%26currStreakLabel%3D22c55e" height="180" alt="streak graph" /></div><div align="center"><p><i>"Security is not a product, but a process."</i></p><!-- REPLACE THE LINK BELOW WITH YOUR ACTUAL PORTFOLIO REPO URL LATER --><a href="https://www.google.com/search?q=https://parthbhagat1337.github.io/your-portfolio-repo/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/ACCESS_PORTFOLIO_MAINFRAME-22c55e%3Fstyle%3Dfor-the-badge%26logoColor%3Dblack" alt="Portfolio" /></a></div>
+```markdown
+<pre>
+      ___           ___           ___           ___           ___     
+     /\  \         /\__\         /\  \         /\  \         /\__\    
+    /::\  \       /:/  /        /::\  \       /::\  \       /:/  /    
+   /:/\:\  \     /:/  /        /:/\:\  \     /:/\:\  \     /:/__/     
+  /:/  \:\  \   /:/  /  ___   /::\~\:\  \   /:/  \:\  \   /::\  \ ___ 
+ /:/__/ \:\__\ /:/__/  /\__\ /:/\:\ \:\__\ /:/__/ \:\__\ /:/\:\  /\__\
+ \:\  \  \/__/ \:\  \ /:/  / \/__\:\/:/  / \:\  \ /:/  / \/__\:\/:/  /
+  \:\  \        \:\  /:/  /       \::/  /   \:\  /:/  /       \::/  / 
+   \:\  \        \:\/:/  /        /:/  /     \:\/:/  /        /:/  /  
+    \:\__\        \::/  /        /:/  /       \::/  /        /:/  /   
+     \/__/         \/__/         \/__/         \/__/         \/__/    
+                                                                      
+       ___           ___                       ___           ___     
+      /\  \         /\__\                     /\__\         /\  \    
+     /::\  \       /:/  /                    /:/ _/_       /::\  \   
+    /:/\:\  \     /:/  /                    /:/ /\__\     /:/\ \  \  
+   /::\~\:\  \   /:/  /  ___               /:/ /:/  /    _\:\~\ \  \ 
+  /:/\:\ \:\__\ /:/__/  /\__\             /:/_/:/  /    /\ \:\ \ \__\
+  \/__\:\/:/  / \:\  \ /:/  /             \:\/:/  /     \:\ \:\ \/__/
+       \::/  /   \:\  /:/  /               \::/__/       \:\ \:\__\  
+        \/__/     \:\/:/  /                 \:\  \        \:\/:/  /  
+                   \::/  /                   \:\__\        \::/  /   
+                    \/__/                     \/__/         \/__/    
+</pre>
+
+```ascii
+     [ SYSTEM BOOT SEQUENCE INITIATED ]
+     > Loading kernel........................ OK
+     > Mounting secure filesystem............ OK
+     > Initializing encrypted channel........ OK
+     > Establishing uplink to matrix......... CONNECTED
+     > Access granted. Welcome back, operator.
+```
+
+### 👋 Hey there, I'm **Parth Dinesh Bhagat** — `@parthbhagat1337`
+
+```text
+> whoami
+Cybersecurity Engineer • Red Team Specialist • Cloud Security Architect
+```
+
+> Versatile security professional with 2+ years of hands-on experience bridging **offensive** and **defensive** operations.  
+> I align technical defenses with real-world threats through Red Teaming, Cloud Hardening, Threat Hunting, and secure development practices.
+
+**Current Mission**: Pursuing **M.Sc. in Cybersecurity** at Dublin Business School, Ireland (2024–2025)  
+**Thesis**: Detecting Encrypted C2 Traffic using Machine Learning
+
+### 🔧 Technical Arsenal
+
+- **Offensive Security**  
+  Red Teaming • VAPT • Burp Suite • Metasploit • Havoc/Cobalt Strike • AD Exploitation • Payload Crafting
+
+- **Defensive Operations**  
+  SOC Analysis • Threat Hunting • Incident Response • Digital Forensics • SIEM (Splunk, QRadar, Sentinel) • Malware Triage
+
+- **Cloud Security**  
+  AWS • Azure • GCP • Terraform (IaC) • Docker/Kubernetes • CSPM/CNAPP • IAM Hardening
+
+- **Development & AppSec**  
+  Python • Bash • PowerShell • Secure SDLC • SAST/DAST • API Security • Android Security
+
+### 🚀 Live Portfolio – Enter the Matrix
+Experience my full interactive portfolio with real-time Matrix rain, typewriter effect, and terminal-style navigation:
+
+🔗 **[parthbhagat1337.github.io/parth-portfolio](https://parthbhagat1337.github.io/parth-portfolio)**
+
+*(System online • Secure connection established)*
+
+### 🛡️ Classified Projects (Highlights)
+
+| Project                     | Category         | Description                                                                 |
+|-----------------------------|------------------|-----------------------------------------------------------------------------|
+| ML-Based C2 Detection       | AI Security      | Lightweight ML models (SVM, XGBoost) to detect encrypted Havoc C2 traffic   |
+| Secure Chat App             | Development      | End-to-End encrypted messaging using asymmetric crypto & secure WebSockets  |
+| Automated Cloud Deployment  | Cloud / DevOps   | Secure IaC pipeline with Terraform, Ansible, and GitHub Actions             |
+| Android WiFi Radar          | Mobile Security  | WiFi scanner with WPS vulnerability detection and pin-guessing              |
+| Smart Mirror IoT            | IoT              | Raspberry Pi smart mirror with weather, news, and calendar integration      |
+
+Full declassified project archive available in the portfolio ↑
+
+### 🏆 Certifications
+
+- Certified Cybersecurity Professional (ISC2)
+- Certified Ethical Hacker (CEH v12 equivalent)
+- Red Hat Certified Engineer (RHCE)
+- Cisco Certified Network Associate (CCNA)
+- CompTIA A+ & Network+
+- Fortinet NSE 3 Network Security Associate
+
+### 📫 Establish Secure Uplink
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-bhagat-386954113/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/parthbhagat1337)
+[![Email](https://img.shields.io/badge/Email-parthp1337@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:parthp1337@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=react&logoColor=white)](https://parthbhagat1337.github.io/parth-portfolio)
+
+```text
+> status
+System nominal • Currently open to opportunities in:
+    • Red Teaming
+    • Cloud Security Architecture
+    • Incident Response & Threat Hunting
+    • Application Security
+Inbox always open — encrypted messages welcome.
+```
+
+```ascii
+     [ END OF TRANSMISSION ]
+     > Connection secured. Stay sharp out there.
+     > All systems nominal — 17 December 2025
+```
+
+```
+
+This is the **complete README.md** file. Just create a new file named `README.md` in your main GitHub profile repository (https://github.com/parthbhagat1337/parthbhagat1337), paste the entire content above, commit, and push.
+
+GitHub will automatically render it as your beautiful, hacker-themed profile page with ASCII art, badges, and perfect alignment to your portfolio's Matrix/cybersecurity aesthetic.
+
+Let me know if you want to add GitHub stats, visitor count, or a trophy section next! 🔒🚀
+```
