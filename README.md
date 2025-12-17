@@ -29,7 +29,7 @@ Cybersecurity Engineer • Red Team Specialist • Cloud Security Architect
 ### 🚀 Live Portfolio – Enter the Matrix
 Experience my full interactive portfolio with real-time Matrix rain, typewriter effect, and terminal-style navigation:
 
-🔗 **[https://v0-resume-to-portfolio-ten-self.vercel.app/](https://v0-resume-to-portfolio-ten-self.vercel.app/)**
+🔗 **[https://parthbhagat1337.github.io/parth-portfolio/](https://parthbhagat1337.github.io/parth-portfolio/)**
 
 ### 🛡️ Classified Projects (Highlights)
 
@@ -57,7 +57,7 @@ Full declassified project archive available in the portfolio ↑
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-bhagat-386954113/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/parthbhagat1337)
 [![Email](https://img.shields.io/badge/Email-parthp1337@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:parthp1337@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=react&logoColor=white)](https://v0-resume-to-portfolio-ten-self.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=react&logoColor=white)](https://parthbhagat1337.github.io/parth-portfolio/)
 
 ```text
 > status
